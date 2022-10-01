@@ -6,3 +6,4 @@ Modified again in remote
 Modified to create conflict
 
 Git branching practice
+Completed practice
