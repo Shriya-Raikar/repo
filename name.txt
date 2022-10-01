@@ -4,3 +4,5 @@ Friday 16:28
 Modified the file in remote repository
 Modified again in remote
 Modified to create conflict
+
+Git branching practice
