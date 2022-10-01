@@ -116,3 +116,4 @@
   538  git push shriya master
   540  history | grep git
   541  history | grep git > git_command.txt
+ git branch -d practice
